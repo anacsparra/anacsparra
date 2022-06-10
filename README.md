@@ -7,7 +7,7 @@
 Atualmente estou cursando desenvolvimento de sistemas na Etec! Amo ensinar e transbordar o que aprendo.✨ <br>
 Por amar exatas, comecei ano de 2020 a assistir aulas sobre programação e me apaixonei pela área, decidindo assim, continuar me desenvolvendo e evoluindo na área para que pudesse trabalhar com isso. <br>
 
-Hard skills:<br>
+### Hard skills:<br>
 
 • Desenvolvimento de aplicações web intermediárias com HTML, CSS, Bootstrap e Javascript;<br>
 • Desenvolvimento frontend com HTML, CSS, JavaScript;<br>
