@@ -2,8 +2,7 @@
 
 <!--
 **anacsparra/anacsparra** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
+-->
 
 👩‍💻 • 3º ano em Técnico em Desenvolvimento de Sistemas
 📚 • Amo falar sobre Produtividade, Estudos e Hábitos
@@ -17,4 +16,4 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->
+
