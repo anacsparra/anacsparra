@@ -5,8 +5,10 @@
 -->
 
 - 👩‍💻 • 3º ano em Técnico em Desenvolvimento de Sistemas
-📚 • Amo falar sobre Produtividade, Estudos e Hábitos
-💡 • Tenho um canal no YouTube: Ana Parra
+
+- 📚 • Amo falar sobre Produtividade, Estudos e Hábitos
+
+- 💡 • Tenho um canal no YouTube: Ana Parra
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
