@@ -1,9 +1,13 @@
-### Hi there 👋
+### Olá, eu sou a Ana Parra!
 
 <!--
 **anacsparra/anacsparra** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
+
+👩‍💻 • 3º ano em Técnico em Desenvolvimento de Sistemas
+📚 • Amo falar sobre Produtividade, Estudos e Hábitos
+💡 • Tenho um canal no YouTube: Ana Parra
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
