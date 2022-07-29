@@ -14,5 +14,7 @@ Por amar exatas, comecei ano de 2020 a assistir aulas sobre programação e me a
 • Desenvovimento e gerenciamento de bancos de dados com MySQL;<br>
 • Utilização de IDEs, como: VSCode e Eclipse.<br>
 • Estudando ReactJs;<br>
+• Estudando React Native;<br>
+
 
 Como está escrito em 2 Coríntios 9:8 " E Deus é poderoso para fazer que lhes seja acrescentada toda a graça, para que em todas as coisas, em todo o tempo, tendo tudo o que é necessário, vocês transbordem em toda boa obra."
