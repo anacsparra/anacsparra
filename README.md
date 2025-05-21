@@ -2,6 +2,7 @@
 
 👩‍💻 • Técnico em Desenvolvimento de Sistemas <br>
 💻 • Estudo na UFABC: Bacharelado em Ciência e Tecnologia <br>
+🏆 • Desenvolvedora da Project Neon <br>
 📚 • Amo falar sobre Produtividade, Estudos e Hábitos <br>
 💡 • Tenho um canal no YouTube: Ana Parra <br>
 
