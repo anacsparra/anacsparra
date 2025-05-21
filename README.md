@@ -1,7 +1,7 @@
 ### Olá, eu sou a Ana Parra!
 
 👩‍💻 • Técnico em Desenvolvimento de Sistemas <br>
-💻 • Estudo na UFABC: 1º ano - Bacharelado em Ciência e Tecnologia <br>
+💻 • Estudo na UFABC: Bacharelado em Ciência e Tecnologia <br>
 📚 • Amo falar sobre Produtividade, Estudos e Hábitos <br>
 💡 • Tenho um canal no YouTube: Ana Parra <br>
 
