@@ -11,12 +11,15 @@ Por amar exatas, comecei ano de 2020 a assistir aulas sobre programação e me a
 
 ### Hard skills:<br>
 
-• Desenvolvimento de aplicações web intermediárias com HTML, CSS, Bootstrap e Javascript;<br>
-• Desenvolvimento frontend com HTML, CSS, JavaScript;<br>
-• Desenvovimento e gerenciamento de bancos de dados com MySQL;<br>
-• Utilização de IDEs, como: VSCode e Eclipse.<br>
-• Estudando ReactJs;<br>
-• Estudando React Native;<br>
+• Desenvolvimento de aplicações web intermediárias com HTML, CSS, Bootstrap e JavaScript;<br>
+• Desenvolvimento frontend com HTML, CSS e JavaScript;<br>
+• Programação em C (aplicações voltadas para robótica, como robôs de sumô);<br>
+• Programação em Python, com foco em automações e aplicações com inteligência artificial;<br>
+• Desenvolvimento e gerenciamento de bancos de dados com MySQL;<br>
+• Utilização de IDEs como Visual Studio Code e Eclipse;<br>
+• Conhecimentos em React.js e React Native;<br>
+• Formação em Inteligência Artificial.
+
 
 
 Como está escrito em 2 Coríntios 9:8 " E Deus é poderoso para fazer que lhes seja acrescentada toda a graça, para que em todas as coisas, em todo o tempo, tendo tudo o que é necessário, vocês transbordem em toda boa obra."
